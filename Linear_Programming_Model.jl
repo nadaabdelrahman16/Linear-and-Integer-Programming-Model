@@ -1,7 +1,3 @@
-
-import Pkg
-Pkg.add("JuMP")
-Pkg.add("Clp")
 using JuMP, Clp
 """
    example linear programming optimization
